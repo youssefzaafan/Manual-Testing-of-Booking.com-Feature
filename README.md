@@ -32,5 +32,5 @@ Booking.com-Feature-Testing/
 - **Test_Charter.md** → Summary of testing scope, objectives, and notes.
 
 ## 🧑‍💻 Author
-Youssef Zaafan
-[LinkedIn](https://www.linkedin.com/in/youssef-zaafan-211482169/)
+- Youssef Zaafan
+- [LinkedIn](https://www.linkedin.com/in/youssef-zaafan-211482169/)
